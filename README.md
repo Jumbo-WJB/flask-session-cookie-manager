@@ -1,3 +1,6 @@
+[flask session安全问题
+](https://mp.weixin.qq.com/s?__biz=MzA4NjQxMDcxNA==&mid=2709352520&idx=1&sn=c70e36002c7c4b38724e74fa56603236&chksm=bb40c4fd8c374deb6f38c0dcc5460a468ffdd33ffaa176643569ab026432a31e31cc5aab3113&token=751459859&lang=zh_CN#rd)
+
 # Flask Session Cookie Decoder/Encoder
 
 Original author : [**Wilson Sumanang**](https://github.com/saruberoz)
